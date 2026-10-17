@@ -1,0 +1,7 @@
+{
+  "nbformat_validation": "passed",
+  "python_compilation_cells": 11,
+  "synthetic_workflow": "passed",
+  "gpu_or_real_kaggle_data_execution": false,
+  "note": "Synthetic scores are not competition results and are not stored in the deliverable."
+}
